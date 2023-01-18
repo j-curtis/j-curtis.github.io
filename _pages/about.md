@@ -9,8 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-     <p>W.G. Young Hall</p>
      <p>607 Charles E Young Dr. East</p>
+     <p>University of California</p>
     <p>Los Angeles, CA 90095 USA</p>
 
 news: true  # includes a list of news items
